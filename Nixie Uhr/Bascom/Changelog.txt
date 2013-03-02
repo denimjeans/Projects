@@ -1,0 +1,6 @@
+V1.1
+Fehler bei der Anzeige des Datums behoben.
+Die Zahl wurde nicht korrekt umgewandelt.
+Des weiteren wurde die stehende Ausgabe des Datums überarbeitet.
+
+V1.2

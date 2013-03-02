@@ -1,0 +1,51 @@
+Bauteil Wert         Device             Package      Description                                                            
+12V                  MPT2               2POL254      PHOENIX CONNECTOR                                                      
+C1      22pF         C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C2      22pF         C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C3      22pF         C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C4      22pF         C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C5      100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C6      47pF         C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C7      47pF         C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C8      100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C9      100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C10     100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C11     100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C12     100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C13     0,3µF        CPOL-EU153CLV-0405 153CLV-0405  POLARIZED CAPACITOR, European symbol                                   
+C14     100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C15     100nF        C-EUC0805          C0805        CAPACITOR, European symbol                                             
+C16     0,3µF        CPOL-EU153CLV-0405 153CLV-0405  POLARIZED CAPACITOR, European symbol                                   
+CAN                  MA04-1             MA04-1       PIN HEADER                                                             
+I2C                  MA04-1             MA04-1       PIN HEADER                                                             
+IC1     MCP2515-E/SO MCP2515-E/SO       SO18L                                                                               
+IC2     MEGA32-A     MEGA32-A           TQFP44       MICROCONTROLLER                                                        
+IC3     FT232RL      FT232RL            SSOP28       Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf
+IC4     7805TV       7805TV             TO220V       Positive VOLTAGE REGULATOR                                             
+ISP/SPI              ML10               ML10         HARTING                                                                
+PORTA                ML10               ML10         HARTING                                                                
+PORTC                ML10               ML10         HARTING                                                                
+POWER                LEDCHIP-LED0805    CHIP-LED0805 LED                                                                    
+Q1      8MHz         CRYSTALHC49UP      HC49UP       CRYSTAL                                                                
+Q2      16MHz        CRYSTALHC49UP      HC49UP       CRYSTAL                                                                
+R1      10k          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R2      3,3k         R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R3      10k          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R4      150          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R5      150          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R6      150          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R7      4,7k         R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R8      4,7k         R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R9      120          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R10     10k          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R11     10k          R-EU_M0805         M0805        RESISTOR, European symbol                                              
+R12     1k           R-EU_R0402         R0402        RESISTOR, European symbol                                              
+R13     1k           R-EU_R0402         R0402        RESISTOR, European symbol                                              
+R14     1k           R-EU_R0402         R0402        RESISTOR, European symbol                                              
+R15     1k           R-EU_R0402         R0402        RESISTOR, European symbol                                              
+RX                   LEDCHIP-LED0805    CHIP-LED0805 LED                                                                    
+SJ1                  SJ                 SJ           SMD solder JUMPER                                                      
+TX                   LEDCHIP-LED0805    CHIP-LED0805 LED                                                                    
+U1      MCP2551SN    MCP2551SN          SO-08        High Speed CAN tranceiver                                              
+UART                 JP2E               JP2          JUMPER                                                                 
+X1      USB-B-H      USB-B-H            USB-B-H      USB Connectors                                                         

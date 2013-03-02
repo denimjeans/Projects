@@ -1,0 +1,64 @@
+Bauteil        	Wert     	Device       	Package 	Description               
+C3             	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+C4             	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+C5             	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+C11            	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+C12            	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+C13            	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+C14            	100nF    	C-EUC0805    	C0805   	CAPACITOR, European symbol
+DCF_MODUL      	         	MA04-1       	MA04-1  	PIN HEADER                
+G1             	CR2430H  	CR2430H      	CR2430H 	LI BATTERY Varta          
+IC1            	MEGA32-A 	MEGA32-A     	TQFP44  	MICROCONTROLLER           
+IC2            	DS1307Z  	DS1307Z      	SOIC8   	I2C-Bus CLOCK/CALENDAR    
+IC3            	74141    	DIL16        	DIL16   	Dual In Line / Socket     
+IC4            	74141    	DIL16        	DIL16   	Dual In Line / Socket     
+IC5            	74141    	DIL16        	DIL16   	Dual In Line / Socket     
+IC6            	74141    	DIL16        	DIL16   	Dual In Line / Socket     
+ISP                  		ML10        	ML10    	HARTING                   
+MINUTEN_EINER   		ML14         	ML14    	HARTING                   
+MINUTEN_ZEHNER          	ML14         	ML14    	HARTING                   
+Q2             	32kHz    	CRYSTALTC26V 	TC26V   	CRYSTAL                   
+R1             	10k      	R-EU_R0805   	R0805   	RESISTOR, European symbol 
+R2             	4,7k     	R-EU_R0805   	R0805   	RESISTOR, European symbol 
+R3             	4,7k     	R-EU_R0805   	R0805   	RESISTOR, European symbol 
+R4             	22k      	R-EU_0204/7  	0204/7  	RESISTOR, European symbol 
+R5             	22k      	R-EU_0204/7  	0204/7  	RESISTOR, European symbol 
+R6             	22k      	R-EU_0204/7  	0204/7  	RESISTOR, European symbol 
+R7             	22k      	R-EU_0204/7  	0204/7  	RESISTOR, European symbol 
+R9             	4,7k     	R-EU_R0805   	R0805   	RESISTOR, European symbol 
+R10            	1k       	R-EU_R0805   	R0805   	RESISTOR, European symbol        
+SPANNUNG        	        ML6          	ML6     	HARTING                   
+STUNDEN_EINER   	        ML14        	ML14    	HARTING                   
+STUNDEN_ZEHNER          	ML14         	ML14   		HARTING                   
+T1             	BC847    	BC847        	SOT23   	NPN TRANSISTOR    
+MINUTEN_EINER  	IN-16 		IN-16  IN-16 	IN-16:  	small numeric frontview nixie tube
+MINUTEN_ZEHNER 	IN-16 		IN-16  IN-16 	IN-16:  	small numeric frontview nixie tube
+STUNDEN_EINER  	IN-16 		IN-16  IN-16    IN-16:  	small numeric frontview nixie tube
+STUNDEN_ZEHNER 	IN-16 		IN-16  IN-16    IN-16:  	small numeric frontview nixie tube
+PL1                  		ML14   		ML14    	HARTING                                  
+PL2                  		ML14   		ML14    	HARTING                                  
+PL3                  		ML14   		ML14    	HARTING                                  
+PL4                  		ML14   		ML14    	HARTING     
+C1       	100nF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+C2       	100µF   	CPOL-EUE5-5     E5-5    	POLARIZED CAPACITOR, European symbol                    
+C3       	100µF   	CPOL-EUE5-5     E5-5    	POLARIZED CAPACITOR, European symbol                    
+C4       	100nF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+C5       	470pF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+C6       	100nF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+C7       	10µF    	CPOL-EUE5-5     E5-5         	POLARIZED CAPACITOR, European symbol                    
+C8       	100nF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+C9       	100nF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+C10      	100nF   	C-EU025-050X050 C025-050X050 	CAPACITOR, European symbol                              
+D1       	1N4004  	1N4004          DO41-10      	DIODE                                                   
+D2       	BYV26   	BYV27           SOD57-10     	DIODE                                                   
+IC1      	MC34063 	DIL8            DIL08        	Dual In Line / Socket                                   
+IC2      	7805TV  	7805TV          TO220V       	Positive VOLTAGE REGULATOR                              
+INPUT           		MPT2            2POL254      	PHOENIX CONNECTOR                                       
+L1       	330µH   	L-EU0204/7      0204/7       	INDUCTOR, European symbol                               
+Q1       	IRF820  	IRF840          TO220        	N-Channel Enhancement MOSFET (HEXFET); 500V; 8A; 0,85Ohm
+R1       	150R    	R-EU_0204/7     0204/7       	RESISTOR, European symbol                               
+R2       	820K    	R-EU_0204/7     0204/7       	RESISTOR, European symbol                               
+R3       	5k6     	R-EU_0204/7     0204/7       	RESISTOR, European symbol                               
+SPANNUNG 	J1      	ML6             ML6          	HARTING                                
+
+        

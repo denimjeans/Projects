@@ -1,0 +1,13 @@
+CAN-Knoten:
+Änderungsnummer: 						Änderung:
+		1								LED "RX" und "TX" werden nun gegen GND geschaltet
+										Pin 26 von IC3 (TEST) wurde auf GND gelegt
+													
+
+
+Software:
+Versionsnummer: 						Änderung:
+	0.0									Releaseversion
+	1.0									UART Interrupt hinzugefügt, Fehlermeldungen beim Modus-
+										wechsel hinzugefügt
+	
